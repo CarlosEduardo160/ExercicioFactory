@@ -1,0 +1,5 @@
+package FactoryMethod;
+
+public interface Logger {
+    void log(String msg);
+}

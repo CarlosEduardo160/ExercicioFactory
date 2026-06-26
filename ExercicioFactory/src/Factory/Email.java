@@ -1,9 +1,0 @@
-package Factory;
-
-public class Email implements Notificacao{
-
-    @Override
-    public void enviar() {
-        System.out.println("enviando email");
-    }
-}
